@@ -43,6 +43,7 @@ The system demonstrates multiple Spark programming models (RDD, DataFrame, SQL),
 
 AI tools were used to assist with code generation, debugging, and analysis. Additionally, a large language model was programmatically integrated to translate natural language prompts into Spark SQL queries
 
-## Academic Context
+## Academic Context and Notes on Provided Code
 
-This project was completed as part of a university course on distributed big data systems and data engineering. Except for get_data.py, which was created by professors for this project, the implementation and analysis were completed individually.
+This project was completed as part of a university course on distributed big data systems and data engineering. Some utility scripts and configuration files were provided as scaffolding for the project (e.g., data download and cluster setup). All Spark queries, performance analysis, machine learning workflows, and LLM integration were implemented by me.
+
