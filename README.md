@@ -1,4 +1,4 @@
-# Project Overview
+# Spark SQL Machine Learning Analytics: Project Overview
 Utilizing Apache Spark to analyze large-scale competitive programming datasets. Data is ingested into Hive-backed Spark tables to support efficient SQL querying, performance optimization, and machine learning workflows.
 
 The system demonstrates multiple Spark programming models (RDD, DataFrame, SQL), query optimization techniques such as caching and bucketing, and integrates Google Gemini API to translate natural language questions into executable Spark SQL.
