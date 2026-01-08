@@ -24,4 +24,8 @@ The system demonstrates multiple Spark programming models (RDD, DataFrame, SQL),
 
 ## AI Usage
 
-AI tools were used to assist with code generation, debugging, and analysis. Additionally, a large language model was programmatically integrated to translate natural language prompts into Spark SQL queries. All AI usage is documented in ai.md, and all analysis and explanations are written in my own words.
+AI tools were used to assist with code generation, debugging, and analysis. Additionally, a large language model was programmatically integrated to translate natural language prompts into Spark SQL queries
+
+## Academic Context
+
+This project was completed as part of a university course on distributed big data systems and data engineering. Except for get_data.py, which was created by professors for this project, the implementation and analysis were completed individually.
