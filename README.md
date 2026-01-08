@@ -5,7 +5,7 @@ The system demonstrates multiple Spark programming models (RDD, DataFrame, SQL),
 
 ## Project Structure
 
-```
+```text
 .
 ├ nb/
 │   └── project.ipynb         # Main Spark notebook with analytics, SQL queries, and ML experiments
